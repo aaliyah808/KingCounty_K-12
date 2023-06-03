@@ -3,7 +3,8 @@
 ### Parties wishing to deposit data into this repository must review and adhere to requirements below
 
 **1. Types of data**
-  * All data must be collected from the public domain and be freely available and reusable..Any data transformations submitted to this repository must be originally collected from a city, state, or federal agency
+  * All data must be collected from the public domain and be freely available and reusable
+  * Any data transformations submitted to this repository must be originally collected from a city, state, or federal agency
   * If submitting a resource only, it must be directly related to existing data in the repository (Ex: a legislative report or policy that sites the Washington state report card)
   
 **2. Data Quality**
