@@ -9,7 +9,7 @@ This repository is a collection of open portal government data that focus on chi
   2. Data transformations
   3. Documentation
   4. Metadata
-* Users and User Stories:
+* [Users and User Stories](https://github.com/aaliyah808/KingCounty_K-12/tree/main/users):
   1. *What questions can I answer with this data?*
 * Collection Poicy
 * Deposit Policy 
