@@ -1,5 +1,5 @@
 ## User story pathways
-### *How did users arrive at the outcomes from their respective goals/needs?* 
+### *How did users arrive at the outcomes from their respective [goals/needs](https://github.com/aaliyah808/KingCounty_K-12/blob/main/users/userStories.md#how-can-they-use-this-repository)?* 
 
 1. ELA Teacher, Aki Kurose Middle School 
     * KC_Report_Card_Enrollment> filter for> filter for school name > “Aki-Kurose Middle School
