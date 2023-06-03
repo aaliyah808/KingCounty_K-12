@@ -35,7 +35,28 @@ These topics were chosen because they provide information about how students acr
 
 ## Mckinney-Vento Service Districts
 
-This dataset originates from ED Data Express, an open data portal controlled by the US Department of Education. Data is filtered for King County school districts. It contains information about schools in districts that are recipients of the federal Mckinney-Vento grant that support activities and programs for identifying houseless students. The grant also funds activities to help houseless students enroll, regularly attend, and graduate from school. The grant was created through the [Mckinney-Vento Education of Homeless Children and Youth Assistance Act](http://uscode.house.gov/view.xhtml?path=/prelim@title42/chapter119/subchapter6/partB&edition=prelim). Data reports on demographic information of students who have been identified as homeless. The report Card data provides this number, but the Mckinney-Vento data provides deeper granularity of this value. Homelessness is explored in multiple variables:
+This dataset originates from ED Data Express, an open data portal controlled by the US Department of Education. Data is filtered for King County school districts. It contains information about schools in districts that are recipients of the federal Mckinney-Vento grant that support activities and programs for identifying houseless students. The grant also funds activities to help houseless students enroll, regularly attend, and graduate from school. The grant was created through the [Mckinney-Vento Education of Homeless Children and Youth Assistance Act](http://uscode.house.gov/view.xhtml?path=/prelim@title42/chapter119/subchapter6/partB&edition=prelim). Data reports on demographic information of students who have been identified as homeless. The report Card data provides this number, but the Mckinney-Vento data provides deeper granularity of this value. Homelessness is explored in multiple variables:Doubled-up; Hotels/motels;Shelters, transitional housing, or awaiting foster care; and Unsheltered. This is a useful intervention in some of the issues with standard homless counts, namely Point in Time, that are unable to account for these nuances within houseless populations generally, and most detrimentally for those under the age of 18.
+
+## Out of Home Count and Child Population
+
+The Out of Home Entries Count, is an amalgamated dataset produced by the Center for Social Sector Analytics & Technology (CSSAT) from their child well-being data portal. Data are collected from the Child Welfare service agencies around the county. The data in this repository is specifically for King County and Washington state as a whole from 2017-2019. It provides the count of children aged 0-17 entering out of home care; which means they were from the custody of their parental or legal guardian(s) through judicial intervention. Data include demographic information about race and ethnicity of children.
+
+The Child population data was published by the Annie E. Casey Foundation (AECF) through their Kids Count program. The [Kids Count Data book](https://www.aecf.org/work/kids-count) is "an annual ranking of states on 16 key measures of child well-being" (AECF, 2022). Population data was gathered from the Office of Financial Management (OFM). OFM provides population estimates based on census-reported data. Data in this repository contains racial and ethnic demographic population information about children in King County and Washington state from 2017-2019.
+
+## A note about demographic terms in the datasets
+
+**Hispanic/Latino**
+
+All data utilize these terms to describe race and ethnicity: African American/Black, American Indian or Alaska Native, Asian, Pacific Islander or Native Hawaiian,  Caucasian/White, and Multiracial/ Two or more races. The “Other” category is present only in the Healthy Youth Survey data. 
+
+Ethnicity is variable in this repository depending on the collector’s standards. There is a chance for amalgamation in Hispanic/Latino values with other racial categories. Only AECF sourced data specifies Non-Hispanic African American/Black, Non-Hispanic American Indian or Alaska Native, Non-Hispanic Asian, Non-Hispanic Caucasian/White, and Non-Hispanic Two or more races, from the sole ethnicity category of Hispanic/Latino. There is much to be said about the [persisting issues of Census Race and Ethnicity categories](https://www2.census.gov/about/partners/cac/nac/meetings/2022-05/presentation-what-2020-census-results-tell-us.pdf), and these data are not free of those concerns. 
+
+**Gender X**
+
+Gender X is representative of a variety of identities under the non-binary umbrella. WAC 246-490-075 defines "X" as "a gender that is not exclusively male or female, including, but not limited to, intersex, agender, amalgagender, androgynous, bigender, demigender, female-to-male, genderfluid, genderqueer, male-to-female, neutrois, nonbinary, pangender, third sex, transgender, transsexual, Two Spirit, and unspecified." For more information about these terms see [Homosaurus: Gender Identity](https://homosaurus.org/v3/homoit0000571) The Homosaurus is a linked data thesaurus with controlled vocabulary of LGBTQA+ terms and subjects.
+
+
+
 
 
 
